@@ -12,4 +12,5 @@ And because of some of the libraries don't allow the visualization on GitHub you
 
 https://nbviewer.org
 
+
 https://github.com/IvanH29/Fifa21/blob/main/Fifa%2021%20data.ipynb
