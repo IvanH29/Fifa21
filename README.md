@@ -4,3 +4,10 @@ Some of the ideas and inspirations are, what are the top 10 players of the world
 
 
 https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring
+
+
+
+And because of some of the libraries don't allow the visualization on GitHub you can use this link to be able to see all the graphs in a proper fashion:
+
+
+https://nbviewer.org
