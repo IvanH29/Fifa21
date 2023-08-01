@@ -17,6 +17,7 @@ https://github.com/IvanH29/Fifa21/blob/main/Fifa%2021%20data.ipynb
 
 
 fifa_dictionary = {
+    
     "Nationality": "Nationality of the player",
     
     "Positions": "Positions in which the player can play",
